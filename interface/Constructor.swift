@@ -9,5 +9,7 @@
 import Foundation
 
 class Constructor {
-    
+    static func objectFrom(data: Data) {
+        
+    }
 }
