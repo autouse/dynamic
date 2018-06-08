@@ -9,10 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    let my = OperationQueue ()
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let main = Main ()
+        main.controller = self
+        my.addOperation (main)
     }
 
     override func didReceiveMemoryWarning() {

@@ -14,6 +14,7 @@
 		087C895320CB10260029B5EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 087C895120CB10260029B5EB /* Main.storyboard */; };
 		087C895520CB10270029B5EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 087C895420CB10270029B5EB /* Assets.xcassets */; };
 		087C895820CB10270029B5EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 087C895620CB10270029B5EB /* LaunchScreen.storyboard */; };
+		088C824B20CB1B09005D84A6 /* Constructor+Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088C824A20CB1B09005D84A6 /* Constructor+Label.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		087C895420CB10270029B5EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		087C895720CB10270029B5EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		087C895920CB10270029B5EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		088C824A20CB1B09005D84A6 /* Constructor+Label.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Constructor+Label.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 			children = (
 				0834FF1320CB14430059F574 /* Main.swift */,
 				0834FF1120CB121D0059F574 /* Constructor.swift */,
+				088C824A20CB1B09005D84A6 /* Constructor+Label.swift */,
 				087C894C20CB10260029B5EB /* interface */,
 				087C894B20CB10260029B5EB /* Products */,
 			);
@@ -143,6 +146,7 @@
 			files = (
 				087C895020CB10260029B5EB /* ViewController.swift in Sources */,
 				087C894E20CB10260029B5EB /* AppDelegate.swift in Sources */,
+				088C824B20CB1B09005D84A6 /* Constructor+Label.swift in Sources */,
 				0834FF1420CB14430059F574 /* Main.swift in Sources */,
 				0834FF1220CB121D0059F574 /* Constructor.swift in Sources */,
 			);
