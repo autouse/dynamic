@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  interface
+//  rtel
 //
-//  Created by i on 08/06/2018.
+//  Created by i on 30/06/2018.
 //  Copyright © 2018 i. All rights reserved.
 //
 
@@ -10,8 +10,10 @@ import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
+
     var window: UIWindow?
-    
+
+
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
