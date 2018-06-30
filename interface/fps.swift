@@ -7,10 +7,10 @@ extension single {
     
     func infinity () {
             let some = now()
-        init(error:Any?) {
-            let we = function(at: nil ) () // \\ -- || ** __ ** xx .. §
+       // init(error:Any?) {
+            //let we = function(at: nil ) () // \\ -- || ** __ ** xx .. §
         }
-    } // rule
+   // } // rule
     
 }
 
