@@ -16,6 +16,8 @@
 		0839BDF720E734AF00EE4AD0 /* wis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0839BDF620E734AF00EE4AD0 /* wis.swift */; };
 		0839BDF920E736A200EE4AD0 /* connection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0839BDF820E736A200EE4AD0 /* connection.swift */; };
 		08D0000420E73C1F00FFF267 /* fps.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08D0000320E73C1F00FFF267 /* fps.swift */; };
+		08D0000620E73CF000FFF267 /* some.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08D0000520E73CF000FFF267 /* some.swift */; };
+		08D0000820E73D6700FFF267 /* now.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08D0000720E73D6700FFF267 /* now.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		0839BDF620E734AF00EE4AD0 /* wis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wis.swift; sourceTree = "<group>"; };
 		0839BDF820E736A200EE4AD0 /* connection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = connection.swift; sourceTree = "<group>"; };
 		08D0000320E73C1F00FFF267 /* fps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fps.swift; sourceTree = "<group>"; };
+		08D0000520E73CF000FFF267 /* some.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = some.swift; sourceTree = "<group>"; };
+		08D0000720E73D6700FFF267 /* now.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = now.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +50,8 @@
 		0839BDD620E7335C00EE4AD0 = {
 			isa = PBXGroup;
 			children = (
+				08D0000720E73D6700FFF267 /* now.swift */,
+				08D0000520E73CF000FFF267 /* some.swift */,
 				08D0000320E73C1F00FFF267 /* fps.swift */,
 				0839BDF820E736A200EE4AD0 /* connection.swift */,
 				0839BDF620E734AF00EE4AD0 /* wis.swift */,
@@ -147,9 +153,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08D0000820E73D6700FFF267 /* now.swift in Sources */,
 				0839BDE520E7335C00EE4AD0 /* single.swift in Sources */,
 				0839BDF520E733DD00EE4AD0 /* ui.swift in Sources */,
 				0839BDF920E736A200EE4AD0 /* connection.swift in Sources */,
+				08D0000620E73CF000FFF267 /* some.swift in Sources */,
 				0839BDE320E7335C00EE4AD0 /* AppDelegate.swift in Sources */,
 				0839BDF720E734AF00EE4AD0 /* wis.swift in Sources */,
 				08D0000420E73C1F00FFF267 /* fps.swift in Sources */,

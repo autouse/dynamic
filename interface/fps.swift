@@ -5,9 +5,12 @@ extension single {
     
     // style
     
-    // infinity
-    
-    // rule
+    func infinity () {
+            let some = now()
+        init(error:Any?) {
+            let we = function(at: nil ) () // \\ -- || ** __ ** xx .. §
+        }
+    } // rule
     
 }
 
